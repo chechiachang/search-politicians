@@ -16,11 +16,47 @@ https://zh.wikipedia.org/wiki/2018年中華民國直轄市長及縣市長選舉
 
 # Posible material
 
+- News
+  - Google news
+  - Yahoo news
 - Google search results
 - Websites of main stream news
   - The facebook comment of news
 - Youtube
 - Facebook public posts
+
+# News
+
+https://news.google.com.tw/
+
+https://tw.news.yahoo.com/
+https://developer.yahoo.com/boss/search/boss_api_guide/
+
+https://www.msn.com/zh-tw/news
+
+https://udn.com/news/index
+
+http://www.ltn.com.tw/
+
+http://www.chinatimes.com
+
+https://www.ettoday.net
+
+https://news.tvbs.com.tw/
+
+https://news.ebc.net.tw/
+
+https://www.epochtimes.com
+
+http://www.storm.mg
+
+http://news.pchome.com.tw/
+
+http://pnn.pts.org.tw/
+
+https://tw.appledaily.com/
+
+https://news.ftv.com.tw/
 
 # Youtube
 
