@@ -24,6 +24,11 @@ https://zh.wikipedia.org/wiki/2018年中華民國直轄市長及縣市長選舉
 
 # Youtube
 
+- Video talk more than news
+- Title/description only will not show the public opinion
+  - Some video disable comments.
+- Data depends on how popular a candidate is.
+
 https://www.youtube.com/yt/dev/zh-TW/api-resources.html
 
 # Facebook
