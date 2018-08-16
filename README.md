@@ -5,6 +5,8 @@ search-politicians
 
 Forgive but never forget.
 
+https://vote.ly.g0v.tw/
+
 # Target Scope
 
 https://zh.wikipedia.org/wiki/2018年中華民國直轄市長及縣市長選舉
